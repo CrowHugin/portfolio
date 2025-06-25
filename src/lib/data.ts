@@ -17,7 +17,7 @@ export const workExperience = [
     achievements: [
       "I rewrote an existing Bash project in Python to improve maintainability and performance.",
       "For this I Used pylint & Gitlab to automate tests on HPC systems, enhancing efficiency and reducing manual intervention.",
-      "On this project, I Worked nearly alone on this project with sometimes the help of my tutor.",
+      "On this project, I worked nearly alone on this project with sometimes the help of my tutor.",
       "I needed to ask differents teams for their needs.",
       "And I added required features as well as tests for each of them.",
       ],
@@ -31,7 +31,9 @@ export const education = [
     degree: "Bachelor: Systemes d’information et stratégie marketing",
     period: "Sep 2022 - Aug 2025",
     achievements: [
-      "Work on multiple languages as python, html, excel VBA ...",
+      "Worked on multiple languages as python, html, excel VBA ...",
+      "Learnt basics engineering",
+      "Learnt basics marketing"
     ],
   },
 ];
