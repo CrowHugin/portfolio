@@ -9,6 +9,7 @@ export default defineConfig({
   vite: {
       plugins: [tailwindcss()],
   },
-
+  site:"https://CrowHugin.github.io",
+  base:"/portfolio",
   integrations: [react()]
 });
