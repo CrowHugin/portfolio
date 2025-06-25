@@ -1,3 +1,5 @@
+import type { Languages } from "lucide-react";
+
 export const personalInfo = {
   name: "Kuntz Bastien",
   location: "Châtillon, France",
@@ -34,35 +36,26 @@ export const education = [
   },
 ];
 export const skills = {
-  programmingLanguages: [
-    "TypeScript",
-    "JavaScript",
+  Hard_skills: [
     "Python",
-    "C++",
-    "Java",
-    "Solidity",
-  ],
-  frontendDevelopment: [
-    "Nextjs",
-    "Reactjs",
-    "React Native",
-    "Shadcn UI",
-    "Tailwind CSS",
+    "Bash",
     "HTML",
     "CSS",
+    "Excel VBA",
+    "Git",
+    "GitHub",
+    "GitLab",
   ],
-  backendDevelopment: ["Nodejs", "Expressjs"],
-  databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
-  cloudAndDevOps: ["AWS"],
-  toolsAndServices: [
-    "Clerk (Auth)",
-    "Sanity (CMS)",
-    "Tinybird (analytics)",
-    "Zod",
-    "Sentry",
-    "Mixpanel",
-    "Trigger.dev",
+  soft_skills: [
+    "Curiosity",
+    "Autonomy",
+    "Respect",
+    "Issues resolution",
+    "Listening",
   ],
+  learning: ["C", "Docker",],
+  Languages: ["French: native", "English: B2"],
+  Interest: ["Climbing (indoor)","Chess"],
 };
 
 export const projects = [
