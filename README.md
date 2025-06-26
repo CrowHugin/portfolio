@@ -1,24 +1,6 @@
-# Modern Portfolio Template
+Made it thanks to rishikesh2003
+find it here: https://github.com/rishikesh2003/my-portfolio
 
-A sleek, responsive portfolio website built with **Astro**, **React**, and **Tailwind CSS**, featuring modern animations and stunning glassmorphism effects.
-
-![Portfolio Screenshot](https://github.com/user-attachments/assets/4f2466f1-1ebe-4cbe-857c-40eccd63c384)
-
-## ✨ Features
-
-- **Modern Design** – Clean, professional layout with elegant glassmorphism
-- **Animations** – Smooth transitions and interactive UI via Framer Motion
-- **Dark/Light Mode** – Automatic theme switching with system preference detection
-- **Fully Responsive** – Optimized for mobile, tablet, and desktop
-- **Blazing Fast** – Powered by Astro for superior performance
-- **Modular Structure** – Built for easy customization and scalability
-- **SEO Friendly** – Structured content and meta tags for better visibility
-
-## 🚀 Demo
-
-👉 [Live Demo](https://rishilol.vercel.app/)
-
-## 🛠 Getting Started
 
 ### Prerequisites
 
@@ -26,9 +8,8 @@ A sleek, responsive portfolio website built with **Astro**, **React**, and **Tai
 - npm / yarn / bun
 
 ### Installation
-
 ```bash
-git clone https://github.com/yourusername/my-portfolio.git
+git clone https://github.com/rishikesh2003/my-portfolio <your folder>
 cd my-portfolio
 
 # Install dependencies
@@ -158,6 +139,14 @@ yarn preview
 ## 📤 Deployment
 
 Easily deploy to platforms like **Vercel**, **Netlify**, **GitHub Pages**, or any static host of your choice.
+For **GitHub Pages** use the .github/workflows/static.yml file, you dodn't need to change anything.
+use astro.config.mjs as well but you'll need to change this:
+```ts
+export default defineConfig({
+  site:"https://yourname.github.io",
+  base: "your repo",
+});
+```
 
 ## 📝 License
 
