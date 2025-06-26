@@ -62,7 +62,7 @@ export const skills = {
 export const projects = [
   {
     title: "C learning",
-    github: "https://github.com/CrowHugin/C-learning",
+    github: "https://github.com/CrowHugin/Langage_C_book",
     description: [
       "Currently learning C thanks to a book written by Frédéric Drouillon.",
       "Only works on basics things for now not some complexe project.",
