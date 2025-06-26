@@ -70,11 +70,19 @@ export const projects = [
   },
   {
     title: "Password Manager",
-    github: "https://github.com/CrowHugin/password-manager",
+    github: "https://github.com/CrowHugin/portfolio",
     description: [
       "A project to expend my programming knowledge.",
       "Will work on differents ways, for now the module one is on.",
       "Later, there will be a website, an web extension & an desktop app.",
+    ],
+  },
+  {
+    title: "Portfolio",
+    github: "https://github.com/CrowHugin/password-manager",
+    description: [
+      "An online portfolio.",
+      "Made with Astro, many thanks to rishikesh2003 for his template, find it here https://github.com/rishikesh2003/my-portfolio",
     ],
   },
 ];
