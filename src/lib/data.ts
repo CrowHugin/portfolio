@@ -80,7 +80,16 @@ export const projects = [
     github: "https://github.com/CrowHugin/password-manager",
     description: [
       "An online portfolio.",
+      "Will be getting updated to follow my current learning and progression",
       "Made with Astro, many thanks to rishikesh2003 for his template, find it here https://github.com/rishikesh2003/my-portfolio",
+    ],
+  },
+  {
+    title: "Docker",
+    github: "https://github.com/CrowHugin/docker",
+    description: [
+      "A folder where i keep my docker files and docker images.",
+      "Can be update anytime",
     ],
   },
 ];
