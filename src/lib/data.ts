@@ -59,14 +59,6 @@ export const skills = {
 
 export const projects = [
   {
-    title: "C learning",
-    github: "https://github.com/CrowHugin/Langage_C_book",
-    description: [
-      "Currently learning C thanks to a book written by Frédéric Drouillon.",
-      "Only works on basics things for now not some complexe project.",
-    ],
-  },
-  {
     title: "Password Manager",
     github: "https://github.com/CrowHugin/portfolio",
     description: [
@@ -82,14 +74,6 @@ export const projects = [
       "An online portfolio.",
       "Will be getting updated to follow my current learning and progression",
       "Made with Astro, many thanks to rishikesh2003 for his template, find it here https://github.com/rishikesh2003/my-portfolio",
-    ],
-  },
-  {
-    title: "Docker",
-    github: "https://github.com/CrowHugin/docker",
-    description: [
-      "A folder where i keep my docker files and docker images.",
-      "Can be update anytime",
     ],
   },
 ];
