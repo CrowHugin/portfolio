@@ -53,7 +53,7 @@ export const skills = {
     "Issues resolution",
     "Listening",
   ],
-  learning: ["C", "Docker","KMV Virtualisation",],
+  learning: ["C", "Docker",],
   Languages: ["French: native", "English: B2"],
 };
 
