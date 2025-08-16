@@ -5,7 +5,7 @@ export const personalInfo = {
   location: "Châtillon, France",
   email: "kuntz.bastien@proton.me",
   github: "https://github.com/CrowHugin",
-  linkedin: "https://www.linkedin.com/feed/",
+  linkedin: "https://www.linkedin.com/in/bastien-kuntz/",
 };
 
 export const workExperience = [
