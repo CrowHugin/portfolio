@@ -1,34 +1,51 @@
-Made it thanks to rishikesh2003
-find it here: https://github.com/rishikesh2003/my-portfolio
 
 
+Was made thanks to rishikesh2003,
+see here: https://github.com/rishikesh2003/my-portfolio
+
+
+---
 ### Prerequisites
 
 - Node.js (v18+ recommended)
 - npm / yarn / bun
 
-### Installation
-```bash
-git clone https://github.com/rishikesh2003/my-portfolio <your folder>
-cd my-portfolio
+---
+## Installation
+```
+git clone https://github.com/CrowHugin/portfolio/ ~/Documents/prog/portfolio/ 
+```
 
-# Install dependencies
+### Install dependencies
+```
 npm install
-# or
+```
+### or
+```
 yarn install
-# or
+```
+### or
+```
 bun install
+```
 
-# Start development server
+### Start development server
+```
 npm run dev
+```
 # or
+```
 yarn dev
-# or
+```
+## or
+
+```
 bun dev
 ```
 
 Visit `http://localhost:4321` in your browser to see it in action.
 
+---
 ## 🧩 Customizing the Portfolio
 
 All your content lives inside `src/lib/data.ts`. Update the following to make it yours:
@@ -104,43 +121,42 @@ export const projects = [
 ];
 ```
 
-### 6. Awards
 
-```ts
-export const awards = [
-  {
-    name: "Award Name",
-    issuer: "Issuer",
-    date: "Date",
-    type: "Type",
-    position: "Position",
-  },
-];
-```
-
+---
 ## 📦 Build for Production
 
-```bash
+```
 npm run build
-# or
+```
+
+### or
+```
 yarn build
-# or
+```
+### or
+```
 bun run build
 ```
 
 To preview the production build locally:
 
-```bash
+```
 npm run preview
-# or
+```
+### or
+```
 yarn preview
 ```
 
+
+---
 ## 📤 Deployment
 
 Easily deploy to platforms like **Vercel**, **Netlify**, **GitHub Pages**, or any static host of your choice.
-For **GitHub Pages** use the .github/workflows/static.yml file, you dodn't need to change anything.
-use astro.config.mjs as well but you'll need to change this:
+
+For **GitHub Pages** use the .github/workflows/static.yml file, you don't need to change anything.
+
+For **astro.config.mjs** you'll need to change this:
 ```ts
 export default defineConfig({
   site:"https://yourname.github.io",
@@ -148,28 +164,7 @@ export default defineConfig({
 });
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## ©️ Copyright
-
-© 2025 **Rishikesh S.** All rights reserved.
-
-You’re welcome to use this template for your own portfolio — just update `data.ts` and tweak the design as needed. Please keep attribution to the original author.
-
----
-
-## 🌟 Like it?
-
-If you found this helpful or inspiring, **please consider leaving a star** ⭐ on the repo — it helps others discover it too!
-
----
-
-## 🙏 Acknowledgments
-
-- [Astro](https://astro.build/)
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Lucide Icons](https://lucide.dev/)
+and to remove the static file with:
+```
+rm ~/Documents/prog/portfolio/.github/workflows/static.yml
+```
