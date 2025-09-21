@@ -12,13 +12,13 @@ export const workExperience = [
   {
     company: "Keysight",
     location: "Arcueil, France",
-    position: "Associate, IT Data Center & Engineering Platform - Appreniceship",
+    position: "Associate, IT Data Center & Engineering Platform - Apprenticeship",
     period: "Dec 2023 - Aug 2025",
     achievements: [
-      "I rewrote an existing Bash project in Python to improve maintainability and performance.",
+      "I rework an existing Bash project in Python to improve maintainability and performance.",
       "For this I used pylint & Gitlab to automate tests on HPC systems, enhancing efficiency and reducing manual intervention.",
       "On this project, I worked nearly alone on this project with sometimes the help of my tutor.",
-      "Added required features as well as tests for each of them.",
+      "I added required features as well as tests for each of them.",
       ],
   },
 ];
@@ -32,16 +32,14 @@ export const education = [
     achievements: [
       "Worked on marketing and engineering",
       "Front-end dev: website with HTML & CSS",
-    ],
+      "Learned basic Python and AI",
+    ], 
   },
 ];
 export const skills = {
   Hard_skills: [
     "Python",
     "Bash",
-    "HTML",
-    "CSS",
-    "Excel VBA",
     "Git",
     "GitHub",
     "GitLab",
@@ -53,23 +51,23 @@ export const skills = {
     "Issues resolution",
     "Listening",
   ],
-  learning: ["C", "Docker",],
+  learning: ["C", "Docker", "C++","OpenGL"],
   Languages: ["French: native", "English: B2"],
 };
 
 export const projects = [
   {
     title: "Password Manager",
-    github: "https://github.com/CrowHugin/portfolio",
+    github: "https://github.com/CrowHugin/password-manager" ,
     description: [
-      "A project to expend my programming knowledge.",
-      "Will work on differents ways, for now the module one is on.",
-      "Later, there will be a website, an web extension & an desktop app.",
+      "A project to expend my Python knowledge.",
+      "Project on stand by while preparing for the école 42 - Paris" 
+      ,
     ],
   },
   {
     title: "Portfolio",
-    github: "https://github.com/CrowHugin/password-manager",
+    github: "https://github.com/CrowHugin/portfolio" ,
     description: [
       "An online portfolio.",
       "Will be getting updated to follow my current learning and progression",
