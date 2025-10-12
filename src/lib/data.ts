@@ -30,7 +30,7 @@ export const education = [
     achievements: [
       "Worked on marketing and engineering",
       "Front-end dev: website with HTML & CSS",
-      "Learned basic Python and AI",
+      "Learned Python and AI",
     ], 
   },
 ];
@@ -59,7 +59,8 @@ export const projects = [
     github: "https://github.com/CrowHugin/password-manager" ,
     description: [
       "A project to expend my Python knowledge.",
-      "Project on stand by while preparing for the école 42 - Paris" 
+      "Module available",
+      "Works with some automatic tests",
       ,
     ],
   },
