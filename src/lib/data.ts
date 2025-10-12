@@ -48,6 +48,7 @@ export const skills = {
     "Respect",
     "Issues resolution",
     "Listening",
+    "Adaptability",
   ],
   learning: ["C", "Docker", "C++","OpenGL"],
   Languages: ["French: native", "English: B2"],
