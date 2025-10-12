@@ -48,7 +48,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Junior Software Engineer 👨‍💻
+              Software Engineer 👨‍💻
             </motion.p>
 
             <motion.div
@@ -123,12 +123,8 @@ export default function HeroSection() {
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
               🚀 Passionate software engineer with a versatile skill set
-              spanning multiple domains. I usually work with python
-              but I don't mind learning others language.
-              I quite like to resolve some dev challenges
-              across different platforms and environments, while adapting quickly to
-              new technologies and methodologies.
-            </p>
+              spanning multiple domains.I mostly use Python, C and C++ but I 
+              can learn some others languages without any issues.            </p>
           </div>
         </MotionWrapper>
       </div>
