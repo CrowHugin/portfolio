@@ -15,10 +15,8 @@ export const workExperience = [
     position: "Associate, IT Data Center & Engineering Platform - Apprenticeship",
     period: "Dec 2023 - Aug 2025",
     achievements: [
-      "I rework an existing Bash project in Python to improve maintainability and performance.",
-      "For this I used pylint & Gitlab to automate tests on HPC systems, enhancing efficiency and reducing manual intervention.",
-      "On this project, I worked nearly alone on this project with sometimes the help of my tutor.",
-      "I added required features as well as tests for each of them.",
+      "Reworked an existing Bash project in Python to improve maintainability and performance.",
+      "Used Pylint, Gitlab & Untitest to make automatic tests on HPC systems, enhancing efficiency and reducing manual intervention.",
       ],
   },
 ];
