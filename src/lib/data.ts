@@ -61,9 +61,9 @@ export const projects = [
     github: "https://github.com/CrowHugin/password-manager" ,
     description: [
       "This project was made to expend my Python knowledge.",
-      "It's working vey well."
+      "It's working vey well.",
       "And was made with automatic pylint test and automatic test within /test/test_function.py.",
-    ],
+      ],
   },
   {
     title: "Portfolio",
