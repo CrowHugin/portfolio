@@ -41,6 +41,7 @@ export const skills = {
     "Git",
     "GitHub",
     "GitLab",
+    "Docker",
   ],
   soft_skills: [
     "Curiosity",
@@ -50,7 +51,7 @@ export const skills = {
     "Listening",
     "Adaptability",
   ],
-  learning: ["C", "Docker", "C++","OpenGL"],
+  learning: ["C","C++",],
   Languages: ["French: native", "English: B2"],
 };
 
