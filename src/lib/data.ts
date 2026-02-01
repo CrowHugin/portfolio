@@ -74,4 +74,12 @@ export const projects = [
       "Made with Astro, many thanks to rishikesh2003 for his template, find it here https://github.com/rishikesh2003/my-portfolio",
     ],
   },
+  {
+    title: "temperature converter",
+    github: "https://github.com/CrowHugin/temperature_converter" ,
+    description: [
+      "A little project to learn some basic C.",
+      "This project is used to translate °F to °C and vise versa.",
+    ],
+  },
 ];
