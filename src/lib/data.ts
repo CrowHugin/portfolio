@@ -23,6 +23,12 @@ export const workExperience = [
 
 export const education = [
   {
+    institution: "Ecole 42",
+    degree: "Ecole 42",
+    location: "Paris, France",
+    period: "April 2025 - ongoing",
+  },
+  {
     institution: "EPF Ecole d'ingénieurs",
     location: "Cachan, France",
     degree: "Bachelor: Systemes d’information et stratégie marketing",
@@ -34,10 +40,10 @@ export const education = [
     ], 
   },
   {
-    institution: "Ecole 42",
-    degree: "Ecole 42",
-    location: "Paris, France",
-    period: "April 2025 - ongoing",
+    institution: "Lycée Montesquieu",
+    location: "Le Plessis-Robinson, France",
+    degree: "Baccalauréat - Classe Européenne",
+    period: "Sep 2019- Aug 2022",
   },
 ];
 export const skills = {
