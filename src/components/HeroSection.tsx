@@ -123,8 +123,8 @@ export default function HeroSection() {
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
               🚀 Passionate software engineer with a versatile skill set
-              spanning multiple domains.I mostly use Python, C and C++ but I 
-              can learn some others languages without any issues.            </p>
+              spanning multiple domains.
+            </p>
           </div>
         </MotionWrapper>
       </div>
