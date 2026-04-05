@@ -33,17 +33,25 @@ export const education = [
       "Learned Python and AI",
     ], 
   },
+  {
+    institution: "Ecole 42",
+    degree: "Ecole 42",
+    location: "Paris, France",
+    period: "April 2025 - ongoing",
+  },
 ];
 export const skills = {
   Hard_skills: [
     "Python",
     "Bash",
+    "Shell",
     "Git",
     "GitHub",
     "GitLab",
     "Docker",
   ],
   soft_skills: [
+    "Patience",
     "Curiosity",
     "Autonomy",
     "Respect",
