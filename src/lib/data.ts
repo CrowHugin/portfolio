@@ -27,7 +27,7 @@ export const education = [
     degree: "Ecole 42",
     location: "Paris, France",
     period: "April 2025 - ongoing",
-    acheevements: [
+    achievements: [
       "Passed through the 'Piscine' and integrated the school at part of the new cursus."
     ]
   },
