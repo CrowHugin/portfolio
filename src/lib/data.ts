@@ -58,7 +58,9 @@ export const skills = {
     "GitHub",
     "GitLab",
     "Docker",
+    "Virtual Machine",
   ],
+
   soft_skills: [
     "Patience",
     "Curiosity",
@@ -68,7 +70,7 @@ export const skills = {
     "Listening",
     "Adaptability",
   ],
-  learning: ["C","C++",],
+  learning: ["C","C++","python"],
   Languages: ["French: native", "English: B2"],
 };
 
@@ -78,8 +80,7 @@ export const projects = [
     github: "https://github.com/CrowHugin/password-manager" ,
     description: [
       "This project was made to expend my Python knowledge.",
-      "It's working vey well.",
-      "And was made with automatic pylint test and automatic test within /test/test_function.py.",
+      "Was made with automatic pylint test and automatic test within /test/test_function.py.",
       ],
   },
   {
