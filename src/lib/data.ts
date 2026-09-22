@@ -24,6 +24,7 @@ export const workExperience = [
 export const education = [
   {
     institution: "Boot.dev",
+    degree: "Boot.dev",
     location: "online",
     period: "August 2026 - ongoing",
     achievements: [
