@@ -97,11 +97,10 @@ export const projects = [
     ],
   },
   {
-    title: "temperature converter",
-    github: "https://github.com/CrowHugin/temperature_converter" ,
+    title: "C Objects",
+    github: "https://github.com/CrowHugin/C_Objects" ,
     description: [
-      "A little project to learn some basic C.",
-      "This project is used to translate °F to °C and vise versa.",
+      "A little project to understand how does objects works in other languages such as python.",
     ],
   },
 ];
